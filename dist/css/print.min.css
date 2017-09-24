@@ -170,7 +170,7 @@ h4 {
     left: 415px;
     width: 775px;
     height: 1680px;
-    padding: 100px 20px 0;
+    padding: 10px 20px 0;
     background: #f0f2f1;
     -webkit-box-sizing: border-box;
     box-sizing: border-box
@@ -215,7 +215,7 @@ h4 {
 
 h3 {
     color: #004d40;
-    margin: 0 0 15px 5px
+    margin: 0 0 10px 5px
 }
 
 h4 {
@@ -260,7 +260,7 @@ h5 {
 .exp>li {
     position: relative;
     top: -5px;
-    margin: 0 0 8px 20px
+    margin: 0 0 6px 20px
 }
 
 .exp img {
