@@ -49,7 +49,7 @@ aside li {
 
 .container {
     width: 1190px;
-    height: 1680px;
+    height: 1572px;
     position: relative
 }
 
@@ -169,8 +169,8 @@ h4 {
 .main {
     left: 415px;
     width: 775px;
-    height: 1680px;
-    padding: 10px 20px 0;
+    height: 1572px;
+    padding: 22px 20px 0;
     background: #f0f2f1;
     -webkit-box-sizing: border-box;
     box-sizing: border-box
@@ -210,7 +210,7 @@ h5 {
 
 h3,
 h4 {
-    font-size: 20px
+    font-size: 16px
 }
 
 h3 {
@@ -219,7 +219,7 @@ h3 {
 }
 
 h4 {
-    line-height: 30px;
+    line-height: 24px;
     bottom: 3px
 }
 
@@ -254,7 +254,7 @@ h5 {
 .exp p {
     font-size: 15px;
     color: #616161;
-    line-height: 21px
+    line-height: 20px
 }
 
 .exp>li {
