@@ -22,7 +22,7 @@ body {
 
 .sidebar,
 aside li {
-    background: #00bfa5
+    background: #129ac3
 }
 
 li,
@@ -95,7 +95,7 @@ h2 {
 
 .side-info dt {
     font-size: 20px;
-    color: #9f3;
+    color: #fff;
     line-height: 40px
 }
 
@@ -119,13 +119,13 @@ h2 {
 .note,
 .qr {
     font-size: 20px;
-    color: #004d40
+    color: #f3f7f6;
 }
 
 .skill-bar-wrap {
     height: 17px;
     width: 150px;
-    background: #00796b;
+    background: #439bce;
     display: inline-block;
     -webkit-border-radius: 20px;
     border-radius: 20px
@@ -163,7 +163,7 @@ h4 {
 }
 
 .qr-in a {
-    color: #004d40
+    color: #f3f7f6;
 }
 
 .main {
@@ -177,7 +177,7 @@ h4 {
 }
 
 .main a {
-    color: #4db6ac
+    color: #06a4d4
 }
 
 .main-info>li {
@@ -186,9 +186,9 @@ h4 {
 
 .main-info dt {
     font-size: 26px;
-    color: #00796b;
+    color: #439bce;
     line-height: 30px;
-    border-bottom: 1px solid #00796b;
+    border-bottom: 1px solid #439bce;
     margin: 0 0 15px -5px
 }
 
@@ -214,7 +214,7 @@ h4 {
 }
 
 h3 {
-    color: #004d40;
+    color: #6998ca;
     margin: 0 0 10px 5px
 }
 
@@ -239,7 +239,7 @@ h5 {
     width: 14px;
     -webkit-border-radius: 100%;
     border-radius: 100%;
-    background: #00796b;
+    background: #439bce;
     float: left;
     position: absolute;
     left: -28px;
@@ -247,7 +247,7 @@ h5 {
 }
 
 .exp {
-    border-left: 2px solid #00796b;
+    border-left: 2px solid #439bce;
     margin-left: 15px
 }
 
