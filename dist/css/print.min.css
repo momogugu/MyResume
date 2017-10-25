@@ -49,8 +49,8 @@ aside li {
 
 .container {
     width: 1190px;
-    height: 1572px;
-    position: relative
+    height: 1680px;
+    position: relative;
 }
 
 .sidebar {
@@ -169,11 +169,11 @@ h4 {
 .main {
     left: 415px;
     width: 775px;
-    height: 1572px;
-    padding: 22px 20px 0;
+    height: 1680px;
+    padding: 35px 20px 0;
     background: #f0f2f1;
     -webkit-box-sizing: border-box;
-    box-sizing: border-box
+    box-sizing: border-box;
 }
 
 .main a {
@@ -208,19 +208,17 @@ h5 {
     font-size: 18px
 }
 
-h3,
-h4 {
-    font-size: 16px
-}
-
 h3 {
     color: #6998ca;
-    margin: 0 0 10px 5px
+    margin: 0 0 10px 5px;
+    font-size: 20px;
 }
 
 h4 {
     line-height: 24px;
-    bottom: 3px
+    bottom: 3px;
+    font-size: 17px;
+    margin-bottom: 5px;
 }
 
 h4 a,
